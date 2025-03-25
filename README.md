@@ -32,7 +32,7 @@ The accompanying README for each tool is located in its directory. Refer to them
 Feel free to report any issues you encounter while using these tools, or ideas you may have for improvement. We will try to help out with any problems when we can, but understand that these tools were made for private use and there might be usage scenarios that we never thought of or got around to testing.
 
 ## License
-Distributed under the MIT License
+Distributed under the MIT License AAAHHH im COMMITIIING
 
 ## Links
 * [Samoyed](https://samoyedcoin.com)
