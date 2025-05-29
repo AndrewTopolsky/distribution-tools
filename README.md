@@ -8,7 +8,7 @@ Initially, all of these were made purely for internal use and there were little 
 Before using our scripts, we *strongly* recommend that you get to grips with the mechanics of using the tools on Solana's [testnet/devnet](https://docs.solana.com/cluster/rpc-endpoints) before doing any live mainnet transactions. Any mistakes you make there are completely harmless and will serve as a learning experience.
 
 
-## Built with a honor
+## Built with a honor TEST
 Everything was written and tested on a Linux-based 64-bit system running Ubuntu 20.04 and Python 3.8.5. These tools should also work on other Linux distros and MacOS systems, but they will definitely not run on Windows. If you are on a Windows machine, we recommend looking into [WSL and WSL2](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
 All tools currently available are built with python3 and no external modules or packages, but they are dependant on having local installations of Solana CLI tools available on the PATH.
